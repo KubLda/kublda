@@ -1,4 +1,4 @@
-# Hi, I'm Vladmimir! 👋
+# Hi, I'm Vladimir! 👋
 
 ## 🚀 About Me
 Python/Flutter dev | DevOps
